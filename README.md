@@ -35,11 +35,7 @@ The notebook evaluates the SVC model using:
 - Accuracy
 - Precision
 - Recall
-- F1 Score
 - Confusion Matrix
 
 ---
-
-
-   cd Customer-Churn-Prediction-SVM
 
